@@ -4,3 +4,5 @@ The actual stitching logic is based on calculating seams and merging pixels alon
 
 
 The MatrixCuts class is designed to find optimal cuts in a matrix, which can be useful in various applications, including image processing and computer vision tasks where identifying important or least important parts of an image is necessary.
+
+The code uses dynamic programming to find the minimum cost path (cut) from one side of the matrix to another. This is similar to algorithms used for finding the shortest path in graphs, where dynamic programming is often applied.
