@@ -7,8 +7,8 @@ The MatrixCuts class is designed to find optimal cuts in a matrix, which can be 
 
 The code uses dynamic programming to find the minimum cost path (cut) from one side of the matrix to another. This is similar to algorithms used for finding the shortest path in graphs, where dynamic programming is often applied.
 
-## Running 
-select two images to stitch together. In this case two images were selected (<a href="https://www.freepik.com/free-photo/womans-twins-listening-music-headphones-smiling-blue_9029266.htm#query=same%20size&position=11&from_view=keyword&track=ais">Image courtesy of cookie_studio</a> on Freepik): 
+## Sample Run
+select two images to stitch together (Image courtesy of cookie_studio on Freepik: <a href="https://www.freepik.com/free-photo/womans-twins-listening-music-headphones-smiling-blue_9029266.htm#query=same%20size&position=11&from_view=keyword&track=ais">image1</a>, <a href="https://www.freepik.com/free-photo/indoor-shot-young-severe-blonde-lady-keeping-hands-folded-while-standing-pink-background-with-cheerful-blue-eyed-pretty-blonde-woman-with-wavy-hairstyle_12586151.htm#query=same%20size&position=2&from_view=keyword&track=ais#position=2&query=same%20size">image2</a>): 
 
 ![blondegirl](https://github.com/nbabtsov/image_stitcher/assets/31867318/630f9079-24f5-4fb1-ad7e-8829ffdbda16)
 ![brunettegirl](https://github.com/nbabtsov/image_stitcher/assets/31867318/ceb80a21-f539-4e8d-8b8a-5314f2c07d20)
