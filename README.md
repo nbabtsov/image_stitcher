@@ -24,6 +24,6 @@ which get stiched together to form:
 
 ![blondethenbrunette](https://github.com/nbabtsov/image_stitcher/assets/31867318/c644b2ba-22e2-484d-8ba4-1ee7b7d25f9b)
 
-Result from different set of photos: 
+Result from higher resolution images: 
 ![image](https://github.com/nbabtsov/shortest_path_image_stitcher/assets/31867318/b432ded1-513d-430c-b419-9ed4dea3dcd2)
 
