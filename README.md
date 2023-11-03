@@ -1,4 +1,4 @@
-# image_stitcher
+# image_stitcher (ISU CS311 - Design and Analysis of Algorithns, 2019)
 A program which uses an image stitching algorithm that takes two input images, computes the best seam to join them, and produces a stitched image as the output.
 The actual stitching logic is based on calculating seams and merging pixels along those seams.
 
